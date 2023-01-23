@@ -1,9 +1,9 @@
 Metadata-Version: 2.1
 Name: loggingflaskbot
-Version: 0.0.1
+Version: 0.0.2
 Summary: logging package
 Home-page: UNKNOWN
-Author: NeuralNine (Florian Dedov)
+Author: Nuraiym Obozkanova
 Author-email: <oboz.nuraiym@gmail.com>
 License: UNKNOWN
 Keywords: python,video,stream,video stream,camera stream,sockets

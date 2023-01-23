@@ -2,14 +2,14 @@ from setuptools import setup, find_packages
 import codecs
 import os
 
-VERSION = '0.0.1'
+VERSION = '0.0.2'
 DESCRIPTION = 'logging package'
 
 # Setting up
 setup(
     name="loggingflaskbot",
     version=VERSION,
-    author="NeuralNine (Florian Dedov)",
+    author="Nuraiym Obozkanova",
     author_email="<oboz.nuraiym@gmail.com>",
     description=DESCRIPTION,
     packages=find_packages(),
