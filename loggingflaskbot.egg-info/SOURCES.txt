@@ -1,0 +1,6 @@
+setup.py
+loggingflaskbot.egg-info/PKG-INFO
+loggingflaskbot.egg-info/SOURCES.txt
+loggingflaskbot.egg-info/dependency_links.txt
+loggingflaskbot.egg-info/requires.txt
+loggingflaskbot.egg-info/top_level.txt
